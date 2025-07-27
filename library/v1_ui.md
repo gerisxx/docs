@@ -8,7 +8,12 @@ getgenv().settings = {
     KeyExpiration = 24            -- Key expiration time in hours
 }
 
-local AuthGuard = loadstring(game:HttpGet("https://raw.githubusercontent.com/AuthGuard0/library/refs/heads/main/v1.lua"))()
+local AuthGuard = loadstring(game:HttpGet("https://raw.githubusercontent.com/AuthGuard0/library/refs/heads/main/v1_ui.lua"))(
+	"PRIVATE_KEY",
+	{
+		serviceId = "SERVICE_ID",
+	}
+)
 -- Place your script below this line and obfuscate the entire file for protection
 ```
 
