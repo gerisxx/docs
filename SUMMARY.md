@@ -1,0 +1,17 @@
+# Table of contents
+
+* [👋 Welcome to AuthGuard](README.md)
+* [Registering on AuthGuard](registering-on-authguard.md)
+* [Creating Revenues](creating-revenues/README.md)
+  * [Linkvertise](creating-revenues/linkvertise.md)
+  * [Work.ink](creating-revenues/work.ink.md)
+  * [Lootlabs](creating-revenues/lootlabs.md)
+  * [Cuty.io](creating-revenues/cuty.io.md)
+  * [Boostellar](creating-revenues/boostellar.md)
+  * [Shrtfly](creating-revenues/shrtfly.md)
+  * [ShortJambo](creating-revenues/shortjambo.md)
+  * [ShrinkEarn](creating-revenues/shrinkearn.md)
+  * [Fly.inc](creating-revenues/fly.inc.md)
+* [Library](library/README.md)
+  * [v1](library/v1.md)
+* [Setup Discord Join from OAuth2](setup-discord-join-from-oauth2.md)
